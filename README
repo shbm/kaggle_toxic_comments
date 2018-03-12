@@ -1,0 +1,2 @@
+wget -O test.zip https://github.com/shbm/kaggle_toxic_comments/blob/master/dataset/test.csv.zip?raw=true && wget -O train.zip https://github.com/shbm/kaggle_toxic_comments/blob/master/dataset/train.csv.zip?raw=true && unzip test.zip && unzip train.zip && rm test.zip train.zip
+
